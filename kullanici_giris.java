@@ -6,7 +6,7 @@ public class kullanici_giris {
 
         int giris_hakki = 3 ;
         String sys_kullanici_adi = "multwaren";
-        String sys_parola = "wabwaga32174";
+        String sys_parola = "qwe123";
 
         System.out.println("*****************");
         System.out.println("Giriş ekranı");
