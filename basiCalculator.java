@@ -14,7 +14,7 @@ public class hey {
     System.out.println(islemler);
             System.out.println("*************************");
         System.out.println("İşlemi seçiniz");
-        String islem =scanner.nextLine();  
+        String islem =scanner.nextLine();
         int a;
         int b ;
 
